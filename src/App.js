@@ -52,7 +52,7 @@ const App = () => {
             </div>
         ) : (
             <div className="empty">
-            <h2>Yo...please type in a movie name!</h2>
+            <h2>Hello!...please type in a movie name.😊</h2>
             </div>
         )}
         </div>
